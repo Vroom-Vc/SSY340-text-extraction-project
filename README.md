@@ -1,0 +1,1 @@
+# SSY340-text-extraction-project
