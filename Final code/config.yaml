@@ -1,0 +1,7 @@
+path: C:\Project\vscode\SSY340-text-extraction-project
+train: dataset/train.txt
+val: dataset/val.txt
+test: dataset/test.txt
+
+nc: 1  # Number of classes (text)
+names: ['text']  # Class names
